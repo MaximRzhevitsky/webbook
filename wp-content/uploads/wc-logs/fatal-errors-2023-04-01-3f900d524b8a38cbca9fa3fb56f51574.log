@@ -1,0 +1,34 @@
+2023-04-01T14:57:27+00:00 CRITICAL Uncaught Error: Function name must be a string in D:\OpenServer\domains\repairs\wp-content\plugins\Myplugin\templates\archive-room.php:48
+Stack trace:
+#0 D:\OpenServer\domains\repairs\wp-includes\template-loader.php(106): include()
+#1 D:\OpenServer\domains\repairs\wp-blog-header.php(19): require_once('D:\\OpenServer\\d...')
+#2 D:\OpenServer\domains\repairs\index.php(17): require('D:\\OpenServer\\d...')
+#3 {main}
+  thrown у D:\OpenServer\domains\repairs\wp-content\plugins\Myplugin\templates\archive-room.php доступно 48
+
+2023-04-01T15:00:21+00:00 CRITICAL Uncaught Error: Function name must be a string in D:\OpenServer\domains\repairs\wp-content\plugins\Myplugin\templates\archive-room.php:48
+Stack trace:
+#0 D:\OpenServer\domains\repairs\wp-includes\template-loader.php(106): include()
+#1 D:\OpenServer\domains\repairs\wp-blog-header.php(19): require_once('D:\\OpenServer\\d...')
+#2 D:\OpenServer\domains\repairs\index.php(17): require('D:\\OpenServer\\d...')
+#3 {main}
+  thrown у D:\OpenServer\domains\repairs\wp-content\plugins\Myplugin\templates\archive-room.php доступно 48
+
+2023-04-01T15:02:08+00:00 CRITICAL Uncaught Error: Function name must be a string in D:\OpenServer\domains\repairs\wp-content\plugins\Myplugin\templates\archive-room.php:48
+Stack trace:
+#0 D:\OpenServer\domains\repairs\wp-includes\template-loader.php(106): include()
+#1 D:\OpenServer\domains\repairs\wp-blog-header.php(19): require_once('D:\\OpenServer\\d...')
+#2 D:\OpenServer\domains\repairs\index.php(17): require('D:\\OpenServer\\d...')
+#3 {main}
+  thrown у D:\OpenServer\domains\repairs\wp-content\plugins\Myplugin\templates\archive-room.php доступно 48
+
+2023-04-01T15:03:45+00:00 CRITICAL Uncaught Error: Function name must be a string in D:\OpenServer\domains\repairs\wp-content\plugins\Myplugin\templates\archive-room.php:48
+Stack trace:
+#0 D:\OpenServer\domains\repairs\wp-includes\template-loader.php(106): include()
+#1 D:\OpenServer\domains\repairs\wp-blog-header.php(19): require_once('D:\\OpenServer\\d...')
+#2 D:\OpenServer\domains\repairs\index.php(17): require('D:\\OpenServer\\d...')
+#3 {main}
+  thrown у D:\OpenServer\domains\repairs\wp-content\plugins\Myplugin\templates\archive-room.php доступно 48
+
+2023-04-01T15:30:09+00:00 CRITICAL syntax error, unexpected end of file у D:\OpenServer\domains\repairs\wp-content\plugins\Myplugin\templates\archive-room.php доступно 103
+

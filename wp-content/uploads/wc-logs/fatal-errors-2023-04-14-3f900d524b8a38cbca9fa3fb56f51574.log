@@ -1,0 +1,9 @@
+2023-04-14T16:07:48+00:00 CRITICAL Uncaught Error: Call to undefined method Max_repairs_filter::filter_repairs_by_id() in D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\includes\class-max-repairs-filter.php:55
+Stack trace:
+#0 D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\templates\archive-repairs.php(65): Max_repairs_filter->get_repairs_by_post_meta()
+#1 D:\OpenServer\domains\repairs\wp-includes\template-loader.php(106): include('D:\\OpenServer\\d...')
+#2 D:\OpenServer\domains\repairs\wp-blog-header.php(19): require_once('D:\\OpenServer\\d...')
+#3 D:\OpenServer\domains\repairs\index.php(17): require('D:\\OpenServer\\d...')
+#4 {main}
+  thrown у D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\includes\class-max-repairs-filter.php доступно 55
+

@@ -1,0 +1,62 @@
+2023-04-12T11:51:37+00:00 CRITICAL Uncaught Error: Call to undefined function filter_repairs_by_instrument() in D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\templates\archive-repairs.php:14
+Stack trace:
+#0 D:\OpenServer\domains\repairs\wp-includes\template-loader.php(106): include()
+#1 D:\OpenServer\domains\repairs\wp-blog-header.php(19): require_once('D:\\OpenServer\\d...')
+#2 D:\OpenServer\domains\repairs\index.php(17): require('D:\\OpenServer\\d...')
+#3 {main}
+  thrown у D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\templates\archive-repairs.php доступно 14
+
+2023-04-12T11:55:50+00:00 CRITICAL Uncaught Error: Call to undefined function filter_repairs_by_instrument() in D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\templates\archive-repairs.php:14
+Stack trace:
+#0 D:\OpenServer\domains\repairs\wp-includes\template-loader.php(106): include()
+#1 D:\OpenServer\domains\repairs\wp-blog-header.php(19): require_once('D:\\OpenServer\\d...')
+#2 D:\OpenServer\domains\repairs\index.php(17): require('D:\\OpenServer\\d...')
+#3 {main}
+  thrown у D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\templates\archive-repairs.php доступно 14
+
+2023-04-12T11:56:30+00:00 CRITICAL Uncaught Error: Call to undefined function filter_repairs_by_instrument() in D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\templates\archive-repairs.php:14
+Stack trace:
+#0 D:\OpenServer\domains\repairs\wp-includes\template-loader.php(106): include()
+#1 D:\OpenServer\domains\repairs\wp-blog-header.php(19): require_once('D:\\OpenServer\\d...')
+#2 D:\OpenServer\domains\repairs\index.php(17): require('D:\\OpenServer\\d...')
+#3 {main}
+  thrown у D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\templates\archive-repairs.php доступно 14
+
+2023-04-12T13:29:52+00:00 CRITICAL Uncaught Error: Call to a member function get_template_part() on null in D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\max_repairs.php:166
+Stack trace:
+#0 D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\templates\archive-repairs.php(14): Newrepairs->filter_repairs_by_instrument()
+#1 D:\OpenServer\domains\repairs\wp-includes\template-loader.php(106): include('D:\\OpenServer\\d...')
+#2 D:\OpenServer\domains\repairs\wp-blog-header.php(19): require_once('D:\\OpenServer\\d...')
+#3 D:\OpenServer\domains\repairs\index.php(17): require('D:\\OpenServer\\d...')
+#4 {main}
+  thrown у D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\max_repairs.php доступно 166
+
+2023-04-12T13:53:28+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Post::have_posts() in D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\max_repairs.php:157
+Stack trace:
+#0 D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\templates\archive-repairs.php(14): Newrepairs->filter_repairs_by_instrument()
+#1 D:\OpenServer\domains\repairs\wp-includes\template-loader.php(106): include('D:\\OpenServer\\d...')
+#2 D:\OpenServer\domains\repairs\wp-blog-header.php(19): require_once('D:\\OpenServer\\d...')
+#3 D:\OpenServer\domains\repairs\index.php(17): require('D:\\OpenServer\\d...')
+#4 {main}
+  thrown у D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\max_repairs.php доступно 157
+
+2023-04-12T14:22:15+00:00 CRITICAL Uncaught Error: Call to undefined function carbon_get_post_meta() in D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\templates\content-repairs.php:9
+Stack trace:
+#0 D:\OpenServer\domains\repairs\wp-includes\template.php(785): require()
+#1 D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\includes\class-gamajo-template-loader.php(255): load_template()
+#2 D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\includes\class-gamajo-template-loader.php(118): Gamajo_Template_Loader->locate_template()
+#3 D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\max_repairs.php(157): Gamajo_Template_Loader->get_template_part()
+#4 D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\templates\archive-repairs.php(14): Newrepairs->filter_repairs_by_instrument()
+#5 D:\OpenServer\domains\repairs\wp-includes\template-loader.php(106): include('D:\\OpenServer\\d...')
+#6 D:\OpenServer\domains\repairs\wp-blog-header.php(19): require_once('D:\\OpenServer\\d...')
+#7 D:\OpenServer\domains у D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\templates\content-repairs.php доступно 9
+
+2023-04-12T14:53:57+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Query as array in D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\max_repairs.php:167
+Stack trace:
+#0 D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\templates\archive-repairs.php(14): Newrepairs->filter_repairs_by_instrument()
+#1 D:\OpenServer\domains\repairs\wp-includes\template-loader.php(106): include('D:\\OpenServer\\d...')
+#2 D:\OpenServer\domains\repairs\wp-blog-header.php(19): require_once('D:\\OpenServer\\d...')
+#3 D:\OpenServer\domains\repairs\index.php(17): require('D:\\OpenServer\\d...')
+#4 {main}
+  thrown у D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\max_repairs.php доступно 167
+

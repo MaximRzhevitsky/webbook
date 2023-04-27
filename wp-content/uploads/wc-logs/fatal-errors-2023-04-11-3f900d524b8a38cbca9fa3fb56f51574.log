@@ -1,0 +1,36 @@
+2023-04-11T11:08:58+00:00 CRITICAL require(): Failed opening required 'D:\OpenServer\domains\repairs\wp-content\plugins\Myplugin/includes/class-max_repairs-template-loader.php' (include_path='.') у D:\OpenServer\domains\repairs\wp-content\plugins\Myplugin\Myplugin.php доступно 22
+
+2023-04-11T11:09:07+00:00 CRITICAL require(): Failed opening required 'D:\OpenServer\domains\repairs\wp-content\plugins\Myplugin/includes/class-max_repairs-template-loader.php' (include_path='.') у D:\OpenServer\domains\repairs\wp-content\plugins\Myplugin\Myplugin.php доступно 22
+
+2023-04-11T11:09:08+00:00 CRITICAL require(): Failed opening required 'D:\OpenServer\domains\repairs\wp-content\plugins\Myplugin/includes/class-max_repairs-template-loader.php' (include_path='.') у D:\OpenServer\domains\repairs\wp-content\plugins\Myplugin\Myplugin.php доступно 22
+
+2023-04-11T11:11:53+00:00 CRITICAL require(): Failed opening required 'D:\OpenServer\domains\repairs\wp-content\plugins\Myplugin/includes/class-max_plugin-template-loader.php' (include_path='.') у D:\OpenServer\domains\repairs\wp-content\plugins\Myplugin\Myplugin.php доступно 22
+
+2023-04-11T11:12:01+00:00 CRITICAL require(): Failed opening required 'D:\OpenServer\domains\repairs\wp-content\plugins\Myplugin/includes/class-max_plugin-template-loader.php' (include_path='.') у D:\OpenServer\domains\repairs\wp-content\plugins\Myplugin\Myplugin.php доступно 22
+
+2023-04-11T11:12:02+00:00 CRITICAL require(): Failed opening required 'D:\OpenServer\domains\repairs\wp-content\plugins\Myplugin/includes/class-max_plugin-template-loader.php' (include_path='.') у D:\OpenServer\domains\repairs\wp-content\plugins\Myplugin\Myplugin.php доступно 22
+
+2023-04-11T11:12:48+00:00 CRITICAL require(): Failed opening required 'D:\OpenServer\domains\repairs\wp-content\plugins\Myplugin/includes/class-my_plugin-template-loader.php' (include_path='.') у D:\OpenServer\domains\repairs\wp-content\plugins\Myplugin\Myplugin.php доступно 22
+
+2023-04-11T11:12:56+00:00 CRITICAL require(): Failed opening required 'D:\OpenServer\domains\repairs\wp-content\plugins\Myplugin/includes/class-my_plugin-template-loader.php' (include_path='.') у D:\OpenServer\domains\repairs\wp-content\plugins\Myplugin\Myplugin.php доступно 22
+
+2023-04-11T11:12:56+00:00 CRITICAL require(): Failed opening required 'D:\OpenServer\domains\repairs\wp-content\plugins\Myplugin/includes/class-my_plugin-template-loader.php' (include_path='.') у D:\OpenServer\domains\repairs\wp-content\plugins\Myplugin\Myplugin.php доступно 22
+
+2023-04-11T11:14:19+00:00 CRITICAL require(): Failed opening required 'D:\OpenServer\domains\repairs\wp-content\plugins\Myplugin/includes/meta-box-class/class-max_repairs-meta-boxes.php' (include_path='.') у D:\OpenServer\domains\repairs\wp-content\plugins\Myplugin\Myplugin.php доступно 24
+
+2023-04-11T11:14:27+00:00 CRITICAL require(): Failed opening required 'D:\OpenServer\domains\repairs\wp-content\plugins\Myplugin/includes/meta-box-class/class-max_repairs-meta-boxes.php' (include_path='.') у D:\OpenServer\domains\repairs\wp-content\plugins\Myplugin\Myplugin.php доступно 24
+
+2023-04-11T11:14:28+00:00 CRITICAL require(): Failed opening required 'D:\OpenServer\domains\repairs\wp-content\plugins\Myplugin/includes/meta-box-class/class-max_repairs-meta-boxes.php' (include_path='.') у D:\OpenServer\domains\repairs\wp-content\plugins\Myplugin\Myplugin.php доступно 24
+
+2023-04-11T13:43:35+00:00 CRITICAL Cannot redeclare datatables_scripts_in_head() (previously declared in D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\includes\datatables\datatables.php:3) у D:\OpenServer\domains\repairs\wp-content\themes\storefront\inc\datatables.php доступно 2
+
+2023-04-11T13:43:58+00:00 CRITICAL Cannot redeclare datatables_scripts_in_head() (previously declared in D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\includes\datatables\datatables.php:3) у D:\OpenServer\domains\repairs\wp-content\themes\storefront\inc\datatables.php доступно 2
+
+2023-04-11T19:43:01+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Query as array in D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\templates\archive-repairs.php:18
+Stack trace:
+#0 D:\OpenServer\domains\repairs\wp-includes\template-loader.php(106): include()
+#1 D:\OpenServer\domains\repairs\wp-blog-header.php(19): require_once('D:\\OpenServer\\d...')
+#2 D:\OpenServer\domains\repairs\index.php(17): require('D:\\OpenServer\\d...')
+#3 {main}
+  thrown у D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\templates\archive-repairs.php доступно 18
+

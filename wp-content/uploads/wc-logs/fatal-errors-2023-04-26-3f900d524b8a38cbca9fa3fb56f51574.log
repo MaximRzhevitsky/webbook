@@ -1,0 +1,11 @@
+2023-04-26T22:36:57+00:00 CRITICAL Uncaught Error: Call to undefined function resize_image() in D:\OpenServer\domains\webbook\wp-content\themes\twentytwentytwo-child\content-product.php:33
+Stack trace:
+#0 D:\OpenServer\domains\webbook\wp-includes\template.php(785): require()
+#1 D:\OpenServer\domains\webbook\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template()
+#2 D:\OpenServer\domains\webbook\wp-content\themes\twentytwentytwo-child\template-all-products.php(16): wc_get_template_part()
+#3 D:\OpenServer\domains\webbook\wp-includes\template-loader.php(106): include('D:\\OpenServer\\d...')
+#4 D:\OpenServer\domains\webbook\wp-blog-header.php(19): require_once('D:\\OpenServer\\d...')
+#5 D:\OpenServer\domains\webbook\index.php(17): require('D:\\OpenServer\\d...')
+#6 {main}
+  thrown у D:\OpenServer\domains\webbook\wp-content\themes\twentytwentytwo-child\content-product.php доступно 33
+

@@ -1,0 +1,6 @@
+2023-04-09T18:25:25+00:00 CRITICAL Out of memory (allocated 3351248896) (tried to allocate 262144 bytes) у D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\includes\meta-box-class\class-meta-boxes-templates.php доступно 1194
+
+2023-04-09T18:37:24+00:00 CRITICAL Out of memory (allocated 1721761792) (tried to allocate 262144 bytes) у D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\includes\meta-box-class\class-meta-boxes-templates.php доступно 1194
+
+2023-04-09T18:47:55+00:00 CRITICAL Out of memory (allocated 7912554496) (tried to allocate 262144 bytes) у D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\includes\meta-box-class\class-meta-boxes-templates.php доступно 1194
+

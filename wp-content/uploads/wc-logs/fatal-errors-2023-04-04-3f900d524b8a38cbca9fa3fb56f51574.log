@@ -1,0 +1,2 @@
+2023-04-04T18:23:04+00:00 CRITICAL Cannot redeclare my_custom_enqueue_scripts() (previously declared in D:\OpenServer\domains\repairs\wp-content\themes\storefront\functions.php:115) у D:\OpenServer\domains\repairs\wp-content\themes\storefront\inc\datatables.php доступно 3
+

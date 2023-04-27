@@ -1,0 +1,35 @@
+2023-04-13T20:11:31+00:00 CRITICAL Uncaught Error: Object of class wpdb could not be converted to string in D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\max_repairs.php:187
+Stack trace:
+#0 D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\templates\archive-repairs.php(79): Newrepairs->get_post_id_by_meta_key_and_value()
+#1 D:\OpenServer\domains\repairs\wp-includes\template-loader.php(106): include('D:\\OpenServer\\d...')
+#2 D:\OpenServer\domains\repairs\wp-blog-header.php(19): require_once('D:\\OpenServer\\d...')
+#3 D:\OpenServer\domains\repairs\index.php(17): require('D:\\OpenServer\\d...')
+#4 {main}
+  thrown у D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\max_repairs.php доступно 187
+
+2023-04-13T20:13:11+00:00 CRITICAL Uncaught Error: Object of class wpdb could not be converted to string in D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\max_repairs.php:187
+Stack trace:
+#0 D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\templates\archive-repairs.php(79): Newrepairs->get_post_id_by_meta_key_and_value()
+#1 D:\OpenServer\domains\repairs\wp-includes\template-loader.php(106): include('D:\\OpenServer\\d...')
+#2 D:\OpenServer\domains\repairs\wp-blog-header.php(19): require_once('D:\\OpenServer\\d...')
+#3 D:\OpenServer\domains\repairs\index.php(17): require('D:\\OpenServer\\d...')
+#4 {main}
+  thrown у D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\max_repairs.php доступно 187
+
+2023-04-13T20:13:30+00:00 CRITICAL Uncaught Error: Object of class wpdb could not be converted to string in D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\max_repairs.php:187
+Stack trace:
+#0 D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\templates\archive-repairs.php(79): Newrepairs->get_post_id_by_meta_key_and_value()
+#1 D:\OpenServer\domains\repairs\wp-includes\template-loader.php(106): include('D:\\OpenServer\\d...')
+#2 D:\OpenServer\domains\repairs\wp-blog-header.php(19): require_once('D:\\OpenServer\\d...')
+#3 D:\OpenServer\domains\repairs\index.php(17): require('D:\\OpenServer\\d...')
+#4 {main}
+  thrown у D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\max_repairs.php доступно 187
+
+2023-04-13T20:54:09+00:00 CRITICAL Uncaught Error: Class 'Max_repairs_filter' not found in D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\templates\archive-repairs.php:66
+Stack trace:
+#0 D:\OpenServer\domains\repairs\wp-includes\template-loader.php(106): include()
+#1 D:\OpenServer\domains\repairs\wp-blog-header.php(19): require_once('D:\\OpenServer\\d...')
+#2 D:\OpenServer\domains\repairs\index.php(17): require('D:\\OpenServer\\d...')
+#3 {main}
+  thrown у D:\OpenServer\domains\repairs\wp-content\plugins\max_repairs\templates\archive-repairs.php доступно 66
+
